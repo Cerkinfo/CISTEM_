@@ -1,0 +1,17 @@
+{ 
+  "bars": {
+    "Chez Théo": "#ec7063",
+    "Campouce": "#af7ac5",
+    "Foyer Culturel": "#eb984e",
+    "Hall U.D": "#48c9b0",
+    "Préfab": "#f4d03f",
+    "Hall du K (eau)": "#7fb3d5",
+    "Café": "#873600"
+  },
+  "dates": {
+    "VENDREDI": "2025-01-31",
+    "SAMEDI": "2025-02-01",
+    "DIMANCHE": "2025-02-02",
+    "LUNDI": "2025-02-03"
+  }
+}

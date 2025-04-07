@@ -1,0 +1,89 @@
+{
+    "fosdem": [
+        {
+            "name": "REDACTED",
+            "nickname": "REDACTED",
+            "phone": "REDACTED",
+            "img": "logo.jpg"
+        },
+        {
+            "name": "REDACTED",
+            "nickname": "REDACTED",
+            "phone": "REDACTED",
+            "img": "logo.jpg"
+        },
+        {
+            "name": "REDACTED",
+            "nickname": "REDACTED",
+            "phone": "REDACTED",
+            "img": "logo.jpg"
+        }
+    ],
+    "team": [
+        {
+        "location": "Chez Théo",
+        "managers": {
+            "manager": {
+                "name": "REDACTED",
+                "phone": "REDACTED"
+            },
+            "suppleant": {
+                "name": "REDACTED",
+                "phone": "REDACTED"
+            }
+        }
+        },
+        {
+        "location": "Campouce",
+        "managers": {
+            "manager": {
+                "name": "REDACTED",
+                "phone": "REDACTED"
+            },
+            "suppleant": {
+                "name": "REDACTED",
+                "phone": "REDACTED"
+            }
+        }
+        },
+        {
+        "location": "Foyer Culturel",
+        "managers": {
+            "manager": {
+                "name": "REDACTED",
+                "phone": "REDACTED"
+            },
+            "suppleant": {
+                "name": "REDACTED",
+                "phone": "REDACTED"
+            }
+        }
+        },
+        {
+        "location": "Hall U.D",
+        "managers": {
+            "manager": {
+                "name": "REDACTED",
+                "phone": "REDACTED"
+            },
+            "suppleant": {
+                "name": "REDACTED",
+                "phone": "REDACTED"
+            }
+        }
+        },
+        {
+        "location": "Préfabs",
+        "managers": {
+            "manager": {
+                "name": "REDACTED",
+                "phone": "REDACTED"
+            },
+            "suppleant": {
+                "name": "REDACTED",
+                "phone": "REDACTED"
+            }
+        }
+        }
+    ]
+}

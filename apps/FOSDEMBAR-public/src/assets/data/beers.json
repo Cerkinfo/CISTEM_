@@ -1,0 +1,623 @@
+[
+  {
+    "id": 5,
+    "name": "Jupiler",
+    "type": "Blonde Lager",
+    "volume": 25,
+    "alcohol": 5.2,
+    "description": "Jupiler is one of Belgium's most popular beers. It's a blond lager with a light, refreshing flavor, perfect for moments of conviviality. Its low bitterness and slightly malty taste make it an easy-drinking beer.",
+    "image": "https://kagvlnuflsooisreyboz.supabase.co/storage/v1/object/public/beer-images//jupiler.png",
+    "price": 3,
+    "beers_taste": {
+      "power": 40,
+      "fruity": 40,
+      "acidity": 20,
+      "roundness": 20,
+      "bitterness": 60,
+      "liveliness": 60
+    },
+    "beers_flavors": {
+      "smell": "Cereals, malt, hops",
+      "taste": "Malt, hops, fruity, fine bitterness",
+      "visual": "Pale blond, clear, white foam"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Barbar",
+    "type": "Blonde Strong Ale",
+    "volume": 33,
+    "alcohol": 8,
+    "description": "Barbar is an artisanal Belgian lager brewed with honey, giving it a unique sweetness and aroma. It offers a perfect balance between the malty flavor and the floral notes of honey. On the palate, it is rich and slightly spicy, ideal for lovers of special beers.",
+    "image": "https://kagvlnuflsooisreyboz.supabase.co/storage/v1/object/public/beer-images//barbar.png",
+    "price": 4.5,
+    "beers_taste": {
+      "power": 80,
+      "fruity": 60,
+      "acidity": 40,
+      "roundness": 80,
+      "bitterness": 20,
+      "liveliness": 40
+    },
+    "beers_flavors": {
+      "smell": "Malt, Honey, Fruit, Flowers",
+      "taste": "Malt, Honey, Spices, Floral",
+      "visual": "Blonde, orange, creamy head"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Cuvée des Trolls",
+    "type": "Blonde Belgian Pale Ale",
+    "volume": 33,
+    "alcohol": 7,
+    "description": "Cuvée des Trolls is a refreshing, lightly hopped blonde ale with notes of citrus and exotic fruit. It is much appreciated for its balanced taste and lightness. Perfect for aperitifs with friends, it seduces with its unique character and playful image.",
+    "image": "https://kagvlnuflsooisreyboz.supabase.co/storage/v1/object/public/beer-images//cuvee_des_trolls.png",
+    "price": 4.5,
+    "beers_taste": {
+      "power": 40,
+      "fruity": 60,
+      "acidity": 40,
+      "roundness": 40,
+      "bitterness": 20,
+      "liveliness": 80
+    },
+    "beers_flavors": {
+      "smell": "Fresh, fruity, citrus, slightly spicy",
+      "taste": "Fruity, slightly spicy, a little bitter",
+      "visual": "Blonde, cloudy, abundant foam"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Duvel",
+    "type": "Blonde Strong Ale",
+    "volume": 33,
+    "alcohol": 8.5,
+    "description": "Duvel is a strong Belgian blonde ale, famous for its powerful, refined taste. With its fruity aromas and slight bitterness, it offers a unique tasting experience. Its special fermentation process gives it a beautiful head and pleasant fizz.",
+    "image": "https://kagvlnuflsooisreyboz.supabase.co/storage/v1/object/public/beer-images//duvel.png",
+    "price": 4.5,
+    "beers_taste": {
+      "power": 80,
+      "fruity": 60,
+      "acidity": 20,
+      "roundness": 80,
+      "bitterness": 60,
+      "liveliness": 60
+    },
+    "beers_flavors": {
+      "smell": "Spices, hops, floral, fruity, yeast, citrus notes",
+      "taste": "Round, generous, powerful, spicy, full-bodied, lemony notes, yeast, clean bitterness, floral",
+      "visual": "Clear golden color, generous white foam"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Hoegaarden Rosée",
+    "type": "Aromatic-Fruity Red",
+    "volume": 25,
+    "alcohol": 3,
+    "description": "Hoegaarden Rosée is a fruity white beer infused with raspberries, giving it a rosy color and a sweet, refreshing taste. It's light and slightly sweet, perfect for a summer break. With its red fruit aromas and low alcohol content, it's ideal for those looking for something different.",
+    "image": "https://kagvlnuflsooisreyboz.supabase.co/storage/v1/object/public/beer-images//hoegaarden_rosee.png",
+    "price": 3.5,
+    "beers_taste": {
+      "power": 40,
+      "fruity": 80,
+      "acidity": 20,
+      "roundness": 60,
+      "bitterness": 20,
+      "liveliness": 40
+    },
+    "beers_flavors": {
+      "smell": "Red fruit and cereal aromas",
+      "taste": "Red fruit and sugar flavors",
+      "visual": "Pink color, thick foam"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Kaasteel Red",
+    "type": "Aromatic-Fruity Red",
+    "volume": 33,
+    "alcohol": 8,
+    "description": "Kasteel Rouge is a unique Belgian beer, brewed with macerated cherries, giving it a deep red color and a sweet-fruity taste. It's rich and intense, perfect for lovers of beers with complex flavors. With its aromas of red fruits and a slight touch of bitterness, it's easy to enjoy.",
+    "image": "https://kagvlnuflsooisreyboz.supabase.co/storage/v1/object/public/beer-images//kaasteel_red.png",
+    "price": 4.5,
+    "beers_taste": {
+      "power": 80,
+      "fruity": 100,
+      "acidity": 40,
+      "roundness": 80,
+      "bitterness": 20,
+      "liveliness": 40
+    },
+    "beers_flavors": {
+      "smell": "Intense aromas of cherries, candied cherries, caramel, sweetness, pastry notes",
+      "taste": "Soft, sweet, round, gourmand, intense cherry notes, caramel, slight acidity, warm finish",
+      "visual": "Red color, ruby highlights, opaque, creamy pink foam"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Kriek",
+    "type": "Lambic Red",
+    "volume": 25,
+    "alcohol": 3.5,
+    "description": "Kriek is a traditional Belgian beer brewed with cherries, offering a bright ruby-red color and intense fruity taste. Its sweetness and balanced acidity make it a refreshing and unique beer. With its cherry aromas and light fizz, it's perfect for lovers of fruity beers.",
+    "image": "https://kagvlnuflsooisreyboz.supabase.co/storage/v1/object/public/beer-images//kriek.png",
+    "price": 3.5,
+    "beers_taste": {
+      "power": 40,
+      "fruity": 80,
+      "acidity": 60,
+      "roundness": 40,
+      "bitterness": 20,
+      "liveliness": 60
+    },
+    "beers_flavors": {
+      "smell": "Sweet, woody cherry aromas",
+      "taste": "Intense morello cherry notes, tart, woody, vegetal notes, soft, sweet",
+      "visual": "Veiled red color, generous pink foam"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Leffe Blonde",
+    "type": "Blonde Belgian Pale Ale",
+    "volume": 33,
+    "alcohol": 6.6,
+    "description": "Leffe Blonde is a well-known Belgian abbey beer, with a golden color and aromas of ripe fruit and malt. It is smooth and well-balanced, with a slight bitterness and a delicately spicy finish.",
+    "image": "https://kagvlnuflsooisreyboz.supabase.co/storage/v1/object/public/beer-images//leffe_blonde.png",
+    "price": 4,
+    "beers_taste": {
+      "power": 60,
+      "fruity": 40,
+      "acidity": 20,
+      "roundness": 40,
+      "bitterness": 20,
+      "liveliness": 40
+    },
+    "beers_flavors": {
+      "smell": "Malt, fruit and spice aromas",
+      "taste": "Flavors of caramel, spice, fruit and yeast",
+      "visual": "Golden color, white foam"
+    }
+  },
+  {
+    "id": 16,
+    "name": "Leffe Brune",
+    "type": "Brune Dark Ale",
+    "volume": 33,
+    "alcohol": 6.5,
+    "description": "Leffe Brune is a Belgian abbey beer with a rich, complex taste, with notes of caramel, dried fruit and roasted malt. It's smooth and slightly sweet, ideal for accompanying tasty dishes or relaxing after a long day. With its dark brown color and creamy foam, it offers a unique tasting experience.",
+    "image": "https://kagvlnuflsooisreyboz.supabase.co/storage/v1/object/public/beer-images//leffe_brune.png",
+    "price": 4,
+    "beers_taste": {
+      "power": 80,
+      "fruity": 20,
+      "acidity": 20,
+      "roundness": 60,
+      "bitterness": 40,
+      "liveliness": 40
+    },
+    "beers_flavors": {
+      "smell": "Aromas of roasted malt, coffee, chocolate and caramel",
+      "taste": "Gourmet flavors of caramel, chocolate, coffee and toast",
+      "visual": "Amber color, mahogany highlights, beige foam"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Maredsous 10 Triple",
+    "type": "Blonde Triple",
+    "volume": 33,
+    "alcohol": 10,
+    "description": "Maredsous 10 Triple is a golden-colored Belgian abbey beer known for its strength and rich aroma. It offers complex flavors of ripe fruit, honey and spices, with a pleasant bitterness on the finish. It's a tasting beer, perfect for connoisseurs in search of new sensations.",
+    "image": "https://kagvlnuflsooisreyboz.supabase.co/storage/v1/object/public/beer-images//maredsous_triple.png",
+    "price": 5,
+    "beers_taste": {
+      "power": 100,
+      "fruity": 60,
+      "acidity": 20,
+      "roundness": 80,
+      "bitterness": 40,
+      "liveliness": 40
+    },
+    "beers_flavors": {
+      "smell": "Aromas of spices, caramel, toast, malt, dried fruit, raisins, yeast.",
+      "taste": "Round, powerful, warm, caramelized flavors, toast, dried fruit, spices, long, full-bodied finish",
+      "visual": "Deep orange color, thick, creamy white head"
+    }
+  },
+  {
+    "id": 18,
+    "name": "Pêcheresse",
+    "type": "Blonde Lambic",
+    "volume": 25,
+    "alcohol": 2.5,
+    "description": "Pêcheresse is a fruity Belgian beer brewed with peaches, offering a golden color and a deliciously sweet, refreshing taste. It combines the sweetness of fruit with a light acidity, creating a unique tasting experience. Perfect for those who appreciate light, fruity beers.",
+    "image": "https://kagvlnuflsooisreyboz.supabase.co/storage/v1/object/public/beer-images//pecheresse.png",
+    "price": 4,
+    "beers_taste": {
+      "power": 20,
+      "fruity": 80,
+      "acidity": 80,
+      "roundness": 40,
+      "bitterness": 0,
+      "liveliness": 60
+    },
+    "beers_flavors": {
+      "smell": "Intense peach aromas, sweet",
+      "taste": "Light and tangy, intense peach flavors, sweet and sour, lively",
+      "visual": "Orange-blonde colour, white foam"
+    }
+  },
+  {
+    "id": 19,
+    "name": "Rochefort 8",
+    "type": "Brune Strong Ale",
+    "volume": 33,
+    "alcohol": 9.2,
+    "description": "Rochefort 8 is a rich, complex, dark-brown Belgian Trappist beer. It has aromas of ripe fruit, caramel and spices, with a round mouthfeel. It's a full-bodied, refined beer, perfect for lovers of robust beers.",
+    "image": "https://kagvlnuflsooisreyboz.supabase.co/storage/v1/object/public/beer-images//rochefort8.png",
+    "price": 5,
+    "beers_taste": {
+      "power": 80,
+      "fruity": 40,
+      "acidity": 20,
+      "roundness": 80,
+      "bitterness": 60,
+      "liveliness": 20
+    },
+    "beers_flavors": {
+      "smell": "Aromas of malts, toast, fruit, spices",
+      "taste": "Flavors of chocolate, toast, vanilla, dark fruits, spices",
+      "visual": "Brown color, ruby highlights, creamy beige head"
+    }
+  },
+  {
+    "id": 20,
+    "name": "Tripel Karmeliet",
+    "type": "Blonde Triple",
+    "volume": 33,
+    "alcohol": 8.4,
+    "description": "Tripel Karmeliet is an exceptional Belgian beer, brewed with three cereals: barley, wheat and oats. It offers complex aromas of vanilla, fruit and spices, with a creamy head. On the palate, it is both smooth and full-bodied, perfect for lovers of rich, aromatic beers.",
+    "image": "https://kagvlnuflsooisreyboz.supabase.co/storage/v1/object/public/beer-images//triple_karmeliet.png",
+    "price": 4.5,
+    "beers_taste": {
+      "power": 80,
+      "fruity": 60,
+      "acidity": 20,
+      "roundness": 80,
+      "bitterness": 40,
+      "liveliness": 40
+    },
+    "beers_flavors": {
+      "smell": "Aromas of malt, toast, spices, fruit, honey",
+      "taste": "Round, generous, sweet, spicy, yeasty, fruity, honey, malt, toast",
+      "visual": "Golden blond color, slightly cloudy, creamy white foam"
+    }
+  },
+  {
+    "id": 21,
+    "name": "Westmalle Triple",
+    "type": "Blonde Triple",
+    "volume": 33,
+    "alcohol": 9.5,
+    "description": "Westmalle Triple is a world-renowned Belgian Trappist beer, known for its golden color and fruity, spicy aromas. It offers a complex taste with notes of malt, yeast and balanced bitterness. It's a powerful, refreshing beer, perfect for lovers of rich, aromatic beers.",
+    "image": "https://kagvlnuflsooisreyboz.supabase.co/storage/v1/object/public/beer-images//westmalle_triple.png",
+    "price": 5,
+    "beers_taste": {
+      "power": 100,
+      "fruity": 60,
+      "acidity": 20,
+      "roundness": 60,
+      "bitterness": 40,
+      "liveliness": 40
+    },
+    "beers_flavors": {
+      "smell": "Fruity aromas, orange, grapefruit, hops, yeast, citrus, spices, floral notes",
+      "taste": "Full-bodied and flavorful, spicy notes, fruit, orange, grapefruit, yeast, herbaceous and floral notes, long finish",
+      "visual": "Golden blond color, slightly cloudy, generous white head"
+    }
+  },
+  {
+    "id": 22,
+    "name": "La Chouffe",
+    "type": "Blonde Strong Ale",
+    "volume": 33,
+    "alcohol": 8,
+    "description": "La Chouffe is an unfiltered Belgian blonde ale with fruity, spicy aromas and a fine head. It offers soft flavors of malt, coriander and hops, with a slight bitterness on the finish. Perfect for those who like rich, balanced beers.",
+    "image": "https://kagvlnuflsooisreyboz.supabase.co/storage/v1/object/public/beer-images//chouffe.png",
+    "price": 4.5,
+    "beers_taste": {
+      "power": 80,
+      "fruity": 60,
+      "acidity": 20,
+      "roundness": 60,
+      "bitterness": 60,
+      "liveliness": 40
+    },
+    "beers_flavors": {
+      "smell": "Fruits, spices, citrus, coriander",
+      "taste": "Powerful, full-bodied, fruity notes, citrus, spices, hops, coriander, slight bitterness.",
+      "visual": "Blonde, golden, slightly cloudy, creamy white foam"
+    }
+  },
+  {
+    "id": 23,
+    "name": "Vedette IPA",
+    "type": "Ambrée IPA",
+    "volume": 33,
+    "alcohol": 5.5,
+    "description": "Vedette IPA is a hoppy Belgian beer with intense aromas of tropical fruit and resin. Its bitter, refreshing taste is perfectly balanced by notes of malt. It's ideal for lovers of hoppy, richly-flavored beers.",
+    "image": "https://kagvlnuflsooisreyboz.supabase.co/storage/v1/object/public/beer-images//vedette_ipa.png",
+    "price": 5,
+    "beers_taste": {
+      "power": 40,
+      "fruity": 60,
+      "acidity": 20,
+      "roundness": 40,
+      "bitterness": 60,
+      "liveliness": 40
+    },
+    "beers_flavors": {
+      "smell": "Malty aromas, caramel, hops, fruit, floral notes",
+      "taste": "Notes of exotic fruit, citrus, caramel, floral notes, mild bitterness",
+      "visual": "Amber color, copper highlights, slightly cloudy, fine white foam"
+    }
+  },
+  {
+    "id": 24,
+    "name": "Kwak",
+    "type": "Ambrée Ale",
+    "volume": 33,
+    "alcohol": 8.4,
+    "description": "Kwak is an iconic Belgian beer, with a beautiful amber color and aromas of caramel and malt. It has a sweet, slightly spicy flavor, with a slight bitterness on the finish.",
+    "image": "https://kagvlnuflsooisreyboz.supabase.co/storage/v1/object/public/beer-images//kwak.png",
+    "price": 4.5,
+    "beers_taste": {
+      "power": 80,
+      "fruity": 60,
+      "acidity": 20,
+      "roundness": 60,
+      "bitterness": 60,
+      "liveliness": 40
+    },
+    "beers_flavors": {
+      "smell": "Malty, caramelized aromas, dried fruits, spices, toast.",
+      "taste": "Powerful, dry, notes of spices, caramel, toast, dried fruit, slightly bitter finish",
+      "visual": "Amber color, copper highlights, limpid, creamy white mousse"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Chimay Bleue",
+    "type": "Brune Dark Ale",
+    "volume": 33,
+    "alcohol": 9,
+    "description": "Chimay Bleue is a renowned Trappist beer, rich in aromas and flavors. It is a dark beer with notes of caramel, ripe fruit and chocolate. It is full-bodied and complex, ideal for those seeking an intense tasting experience.",
+    "image": "https://kagvlnuflsooisreyboz.supabase.co/storage/v1/object/public/beer-images//chimay_bleue.png",
+    "price": 5,
+    "beers_taste": {
+      "power": 80,
+      "fruity": 40,
+      "acidity": 40,
+      "roundness": 80,
+      "bitterness": 60,
+      "liveliness": 20
+    },
+    "beers_flavors": {
+      "smell": "Fruits, spices, caramel",
+      "taste": "Alcohol, sugar, slight bitterness, round, smooth, malt, caramel",
+      "visual": "Dark brown, limpid, fine beige foam"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Gueuze",
+    "type": "Blonde Lambic",
+    "volume": 25,
+    "alcohol": 5,
+    "description": "Gueuze is a unique Belgian beer made from a blend of young and old lambics. Its tangy taste and complex fruit and wood aromas make it a refreshing and unique tasting experience. It is distinguished by its spontaneous fermentation, offering authentic and varied flavors.",
+    "image": "https://kagvlnuflsooisreyboz.supabase.co/storage/v1/object/public/beer-images//gueuze.png",
+    "price": 3.5,
+    "beers_taste": {
+      "power": 40,
+      "fruity": 40,
+      "acidity": 80,
+      "roundness": 40,
+      "bitterness": 20,
+      "liveliness": 80
+    },
+    "beers_flavors": {
+      "smell": "Yeasty, sour",
+      "taste": "Sour, acidic, yeasty",
+      "visual": "Golden yellow, light white foam"
+    }
+  },
+  {
+    "id": 25,
+    "name": "Paix Dieu",
+    "type": "Blonde Triple",
+    "volume": 33,
+    "alcohol": 10,
+    "description": "La Paix Dieu is a Belgian Triple craft beer, brewed exclusively on the nights of the full moon, giving it a mystical aura. It has complex aromas of ripe fruit, honey and spices, with a creamy head. On the palate, it is rich and balanced, with a slight bitterness at the end.",
+    "image": "https://kagvlnuflsooisreyboz.supabase.co/storage/v1/object/public/beer-images//paix_dieu.png",
+    "price": 5,
+    "beers_taste": {
+      "power": 100,
+      "fruity": 40,
+      "acidity": 20,
+      "roundness": 60,
+      "bitterness": 60,
+      "liveliness": 60
+    },
+    "beers_flavors": {
+      "smell": "Aromas of fruit, spices, coriander, yeast, hops, malt, vanilla.",
+      "taste": "Powerful, smooth, spicy notes, coriander, fruit, toast, yeast, subtle, warm hop finish",
+      "visual": "Cloudy golden color, abundant creamy mousse"
+    }
+  },
+  {
+    "id": 26,
+    "name": "Delta IPA",
+    "type": "Ambrée IPA",
+    "volume": 33,
+    "alcohol": 6,
+    "description": "Delta IPA is a Belgian hoppy beer with exotic tropical fruit and citrus aromas. Its refreshing, bitter flavor is balanced by subtle malty notes. Ideal for lovers of richly flavored, well-hopped beers.",
+    "image": "https://kagvlnuflsooisreyboz.supabase.co/storage/v1/object/public/beer-images//delta_ipa.png",
+    "price": 5,
+    "beers_taste": {
+      "power": 60,
+      "fruity": 80,
+      "acidity": 0,
+      "roundness": 40,
+      "bitterness": 80,
+      "liveliness": 40
+    },
+    "beers_flavors": {
+      "smell": "Aromas of hops. Notes of citrus and resin.",
+      "taste": "Tropical fruit and lychee flavors. Notes of hops",
+      "visual": "Blonde with golden highlights. Attractive white foam."
+    }
+  },
+  {
+    "id": 27,
+    "name": "Duvel Triple Hop Citra",
+    "type": "Blonde Strong Ale",
+    "volume": 33,
+    "alcohol": 9.5,
+    "description": "Duvel Triple Hop Citra is a hopped variation of the famous Duvel, using Citra hops to add tropical and citrus aromas. It offers balanced bitterness and complexity on the palate, with a refreshing finish. Ideal for fans of strong, hoppy beers.",
+    "image": "https://kagvlnuflsooisreyboz.supabase.co/storage/v1/object/public/beer-images//duvel_triple_hop_citra.png",
+    "price": 5,
+    "beers_taste": {
+      "power": 80,
+      "fruity": 60,
+      "acidity": 20,
+      "roundness": 60,
+      "bitterness": 80,
+      "liveliness": 60
+    },
+    "beers_flavors": {
+      "smell": "Citrus, hops, grapefruit, lime, passion fruit, malt, yeast, exotic fruit, herbaceous.",
+      "taste": "Powerful, round, generous, dry, fruity notes, citrus, tropical fruit, powerful bitterness, herbaceous",
+      "visual": "Clear, golden blond color, creamy white foam."
+    }
+  },
+  {
+    "id": 28,
+    "name": "Rodenbach",
+    "type": "Brune Red Ale",
+    "volume": 25,
+    "alcohol": 5.2,
+    "description": "Rodenbach is a Belgian red-brown beer known for its unique, tangy taste, the result of aging in oak barrels. It offers complex aromas of red fruit, balsamic vinegar and oak.",
+    "image": "https://kagvlnuflsooisreyboz.supabase.co/storage/v1/object/public/beer-images//rodenbach.png",
+    "price": 3.5,
+    "beers_taste": {
+      "power": 40,
+      "fruity": 60,
+      "acidity": 60,
+      "roundness": 40,
+      "bitterness": 40,
+      "liveliness": 60
+    },
+    "beers_flavors": {
+      "smell": "Sweet-sour aromas of ripe fruit, caramel and wood",
+      "taste": "Sweet and tangy, sweet-sour notes, ripe fruit, caramelized malt, plum, cherry, woody",
+      "visual": "Ruby color, red highlights, thick off-white foam"
+    }
+  },
+  {
+    "id": 29,
+    "name": "Grimbergen",
+    "type": "Blonde Belgian Ale",
+    "volume": 33,
+    "alcohol": 6.7,
+    "description": "Grimbergen Blonde is a well-balanced Belgian abbey beer, with fruity and slightly spicy aromas. Its smooth, malty flavor and slight bitterness make it a very pleasant beer to drink.",
+    "image": "https://kagvlnuflsooisreyboz.supabase.co/storage/v1/object/public/beer-images//grimbergen_blond.png",
+    "price": 4.5,
+    "beers_taste": {
+      "power": 30,
+      "fruity": 50,
+      "acidity": 10,
+      "roundness": 40,
+      "bitterness": 20,
+      "liveliness": 30
+    },
+    "beers_flavors": {
+      "smell": "Fruity, Spicy, Malty, Subtle",
+      "taste": "Sweet, Slightly bitter, Malty, Balanced, Roundness",
+      "visual": "Golden, Clear, Fine mousse, Delicate bubbles"
+    }
+  },
+  {
+    "id": 31,
+    "name": "Galipette Cider",
+    "type": "Cider",
+    "volume": 33,
+    "alcohol": 4.5,
+    "description": "Farmhouse charm with modern elegance. Starting with the finest local cider apples, Galipette ferments and matures cider in line with the centuries-old traditions of northwest France. Their range of dry ciders celebrate freshness in every crisp, delicious sip.",
+    "image": "https://kagvlnuflsooisreyboz.supabase.co/storage/v1/object/public/beer-images//galipette-cider.png",
+    "price": 4.5,
+    "beers_taste": {
+      "power": 20,
+      "fruity": 60,
+      "acidity": 30,
+      "roundness": 40,
+      "bitterness": 10,
+      "liveliness": 50
+    },
+    "beers_flavors": {
+      "smell": "Fresh apple, Floral, Subtle",
+      "taste": "Fruity, Sweet, Acidic, Balanced",
+      "visual": "Gold, Clear, Sparkling"
+    }
+  },
+  {
+    "id": 32,
+    "name": "Trotinette 0.0%",
+    "type": "NA IPA",
+    "volume": 33,
+    "alcohol": 0.4,
+    "description": "Delicious organic Belgian beer, full of flavor, divinely light, with citrus notes and only 0.4% alcohol, it's the result of an innovative union of four malts and four hops. Slightly fizzy, refreshing, but still the same flavor as its traditional alcoholic version.",
+    "image": "https://kagvlnuflsooisreyboz.supabase.co/storage/v1/object/public/beer-images//trotinetteNA.png",
+    "price": 3.5,
+    "beers_taste": {
+      "power": 10,
+      "fruity": 40,
+      "acidity": 10,
+      "roundness": 30,
+      "bitterness": 20,
+      "liveliness": 50
+    },
+    "beers_flavors": {
+      "smell": "Malty, Subtle, Herbaceous",
+      "taste": "Slightly bitter, Sweat, Refreshing",
+      "visual": "Pale Gold, Clear, Light foam"
+    }
+  },
+  {
+    "id": 30,
+    "name": "FOSDEM Beer 2025",
+    "type": "Saison IPA",
+    "volume": 33,
+    "alcohol": 6.5,
+    "description": "FOSDEM Beer 2025 is a Belgian craft beer with a strong character. It offers intense hop aromas with hints of citrus and tropical fruit. Its flavor is well balanced between bitterness and sweetness, making every sip refreshing.",
+    "image": "https://kagvlnuflsooisreyboz.supabase.co/storage/v1/object/public/beer-images//FOSDEM_beer.png",
+    "price": 3.5,
+    "beers_taste": {
+      "power": 70,
+      "fruity": 80,
+      "acidity": 50,
+      "roundness": 65,
+      "bitterness": 75,
+      "liveliness": 70
+    },
+    "beers_flavors": {
+      "smell": "Citrus, Tropical, Hoppy",
+      "taste": "Bitter, Fruity, Balanced, Refreshing",
+      "visual": "Golden, Clear, Dense foam"
+    }
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Club-Mate",
+    "volume": 50,
+    "image": "https://kagvlnuflsooisreyboz.supabase.co/storage/v1/object/public/soft-images//club-mate.png",
+    "price": 4
+  },
+  {
+    "id": 2,
+    "name": "Club-Mate Zero",
+    "volume": 50,
+    "image": "https://kagvlnuflsooisreyboz.supabase.co/storage/v1/object/public/soft-images//club-mate-zero.png",
+    "price": 4
+  },
+  {
+    "id": 3,
+    "name": "Club-Mate Ice-Tea",
+    "volume": 50,
+    "image": "https://kagvlnuflsooisreyboz.supabase.co/storage/v1/object/public/soft-images//club-mate-ice-tea.png",
+    "price": 4
+  },
+  {
+    "id": 5,
+    "name": "Afri-Cola",
+    "volume": 20,
+    "image": "https://kagvlnuflsooisreyboz.supabase.co/storage/v1/object/public/soft-images//afri-cola.png",
+    "price": 2
+  },
+  {
+    "id": 6,
+    "name": "Afri-Cola Zero",
+    "volume": 20,
+    "image": "https://kagvlnuflsooisreyboz.supabase.co/storage/v1/object/public/soft-images//afri-cola-zero.png",
+    "price": 2
+  },
+  {
+    "id": 7,
+    "name": "Bluna Orange",
+    "volume": 20,
+    "image": "https://kagvlnuflsooisreyboz.supabase.co/storage/v1/object/public/soft-images//bluna-orange.png",
+    "price": 2
+  },
+  {
+    "id": 8,
+    "name": "Bluna Lemon",
+    "volume": 20,
+    "image": "https://kagvlnuflsooisreyboz.supabase.co/storage/v1/object/public/soft-images//bluna-lemon.png",
+    "price": 2
+  },
+  {
+    "id": 11,
+    "name": "Still Water",
+    "volume": 50,
+    "image": "https://kagvlnuflsooisreyboz.supabase.co/storage/v1/object/public/soft-images//still-water.png",
+    "price": 1
+  },
+  {
+    "id": 4,
+    "name": "Club-Mate Granat",
+    "volume": 50,
+    "image": "https://kagvlnuflsooisreyboz.supabase.co/storage/v1/object/public/soft-images//club-mate-granat.png",
+    "price": 4
+  },
+  {
+    "id": 9,
+    "name": "Orange Jus",
+    "volume": 33,
+    "image": "https://kagvlnuflsooisreyboz.supabase.co/storage/v1/object/public/soft-images//orange-jus.png",
+    "price": 1.5
+  },
+  {
+    "id": 10,
+    "name": "Apple Jus",
+    "volume": 33,
+    "image": "https://kagvlnuflsooisreyboz.supabase.co/storage/v1/object/public/soft-images//apple-jus.png",
+    "price": 1.5
+  },
+  {
+    "id": 12,
+    "name": "Sparkling Water",
+    "volume": 50,
+    "image": "https://kagvlnuflsooisreyboz.supabase.co/storage/v1/object/public/soft-images//sparkling-water.png",
+    "price": 1
+  }
+]

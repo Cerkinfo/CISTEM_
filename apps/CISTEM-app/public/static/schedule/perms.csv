@@ -1,0 +1,60 @@
+NAME,VENDREDI,SAMEDI,08:00 - 10:00,10:01 - 12:00,12:01 - 14:00,14:01 - 16:00,16:01 - 18:00,18:01 - 20:00,DIMANCHE,08:01 - 10:00,10:01 - 12:00,12:01 - 14:00,14:01 - 16:00,16:01 - 18:00,18:01 - 20:00,LUNDI
+REDACTED,TRUE,TRUE,Chez Théo,Chez Théo,Chez Théo,Chez Théo,Chez Théo,Chez Théo,TRUE,Chez Théo,Chez Théo,Chez Théo,Chez Théo,Chez Théo,Chez Théo,TRUE
+REDACTED,TRUE,TRUE,Café,Café,Hall U.D,Hall U.D,Hall U.D,Hall U.D,TRUE,Hall U.D,Hall U.D,Hall du K (eau),Hall U.D,Hall U.D,Hall U.D,TRUE
+REDACTED,TRUE,TRUE,Foyer Culturel,Hall du K (eau),Foyer Culturel,Foyer Culturel,Foyer Culturel,Foyer Culturel,TRUE,Chez Théo,Chez Théo,Chez Théo,Chez Théo,Chez Théo,Chez Théo,TRUE
+REDACTED,TRUE,TRUE,Préfab,,Hall du K (eau),Préfab,Préfab,Préfab,TRUE,Préfab,Préfab,Préfab,Préfab,Préfab,Préfab,FALSE
+REDACTED,TRUE,TRUE,Préfab,Foyer Culturel,Préfab,Préfab,Préfab,Préfab,TRUE,Préfab,Préfab,Préfab,Préfab,Hall du K (eau),Préfab,TRUE
+REDACTED,TRUE,TRUE,Campouce,Campouce,Campouce,Campouce,Campouce,Campouce,TRUE,Hall du K (eau),Campouce,Campouce,Campouce,Campouce,Campouce,TRUE
+REDACTED,FALSE,TRUE,Campouce,Campouce,Campouce,Campouce,Campouce,Campouce,FALSE,,,,,,,FALSE
+REDACTED,TRUE,TRUE,Foyer Culturel,Foyer Culturel,Foyer Culturel,Foyer Culturel,Foyer Culturel,Foyer Culturel,TRUE,Foyer Culturel,Hall du K (eau),Foyer Culturel,Foyer Culturel,Foyer Culturel,Foyer Culturel,FALSE
+REDACTED,TRUE,TRUE,Chez Théo,Chez Théo,Chez Théo,Chez Théo,Chez Théo,Chez Théo,TRUE,Chez Théo,Chez Théo,Chez Théo,Chez Théo,Chez Théo,Chez Théo,TRUE
+REDACTED,TRUE,TRUE,Chez Théo,Chez Théo,Chez Théo,Hall du K (eau),Chez Théo,Chez Théo,TRUE,,,,Foyer Culturel,Foyer Culturel,Foyer Culturel,TRUE
+REDACTED,TRUE,TRUE,Hall U.D,Hall U.D,Hall U.D,Hall U.D,Hall U.D,Hall U.D,TRUE,Hall U.D,Hall U.D,Hall U.D,Hall U.D,Hall U.D,Hall U.D,TRUE
+REDACTED,TRUE,TRUE,Hall U.D,Hall U.D,Hall U.D,Hall U.D,Hall U.D,Hall U.D,TRUE,Hall U.D,Hall U.D,Hall U.D,Hall U.D,Hall U.D,Hall U.D,TRUE
+REDACTED,FALSE,TRUE,Chez Théo,Chez Théo,Chez Théo,Préfab,Préfab,Hall du K (eau),TRUE,Campouce,Campouce,Campouce,Préfab,Préfab,Préfab,FALSE
+REDACTED,TRUE,TRUE,Campouce,Campouce,Campouce,Campouce,Campouce,Campouce,TRUE,Campouce,Campouce,Campouce,Campouce,Campouce,Campouce,TRUE
+REDACTED,TRUE,TRUE,Foyer Culturel,Foyer Culturel,Foyer Culturel,Foyer Culturel,Foyer Culturel,Foyer Culturel,TRUE,Foyer Culturel,Foyer Culturel,Foyer Culturel,Foyer Culturel,Foyer Culturel,Foyer Culturel,TRUE
+REDACTED,FALSE,TRUE,Foyer Culturel,Foyer Culturel,Foyer Culturel,Foyer Culturel,Foyer Culturel,Foyer Culturel,TRUE,Foyer Culturel,Foyer Culturel,Foyer Culturel,Foyer Culturel,Foyer Culturel,Foyer Culturel,FALSE
+REDACTED,TRUE,TRUE,Foyer Culturel,Foyer Culturel,Foyer Culturel,Foyer Culturel,Foyer Culturel,Foyer Culturel,TRUE,Foyer Culturel,Foyer Culturel,Foyer Culturel,Hall du K (eau),Foyer Culturel,Foyer Culturel,TRUE
+REDACTED,FALSE,TRUE,Campouce,Campouce,Campouce,Préfab,Hall du K (eau),Préfab,TRUE,Chez Théo,Chez Théo,Chez Théo,Préfab,Préfab,Préfab,FALSE
+REDACTED,TRUE,TRUE,Chez Théo,Chez Théo,Café,Café,Chez Théo,Chez Théo,TRUE,Chez Théo,Chez Théo,Chez Théo,Chez Théo,Chez Théo,Chez Théo,TRUE
+REDACTED,TRUE,TRUE,Préfab,Foyer Culturel,Préfab,Préfab,Préfab,Préfab,FALSE,,,,,,,TRUE
+REDACTED,TRUE,FALSE,,,,,,,TRUE,Préfab,Préfab,Hall du K (eau),Préfab,Préfab,Préfab,TRUE
+REDACTED,TRUE,TRUE,Campouce,Hall du K (eau),Campouce,Préfab,Préfab,Préfab,TRUE,Chez Théo,Chez Théo,Hall U.D,Préfab,Préfab,Préfab,TRUE
+REDACTED,TRUE,TRUE,Hall du K (eau),Préfab,Préfab,Campouce,Campouce,Campouce,TRUE,Préfab,Préfab,Préfab,Chez Théo,Chez Théo,Chez Théo,TRUE
+REDACTED,TRUE,TRUE,Hall U.D,Hall U.D,Hall U.D,Hall U.D,Hall U.D,Hall du K (eau),TRUE,Hall U.D,Hall U.D,Foyer Culturel,Hall U.D,Hall U.D,Hall U.D,TRUE
+REDACTED,FALSE,TRUE,Campouce,Campouce,Campouce,Campouce,Café,Café,FALSE,,,,,,,TRUE
+REDACTED,FALSE,TRUE,Chez Théo,Chez Théo,Chez Théo,Chez Théo,Chez Théo,Chez Théo,TRUE,Chez Théo,Chez Théo,Café,Café,Chez Théo,Chez Théo,FALSE
+REDACTED,FALSE,FALSE,,,,,,,TRUE,Préfab,Préfab,Préfab,Foyer Culturel,Préfab,Préfab,TRUE
+REDACTED,FALSE,TRUE,Hall du K (eau),Chez Théo,Chez Théo,Chez Théo,Chez Théo,Chez Théo,TRUE,Chez Théo,Chez Théo,Chez Théo,Chez Théo,Café,Café,FALSE
+REDACTED,TRUE,TRUE,Chez Théo,Chez Théo,Chez Théo,Hall du K (eau),Préfab,Préfab,TRUE,Campouce,Campouce,Campouce,Foyer Culturel,Préfab,Préfab,TRUE
+REDACTED,TRUE,TRUE,Préfab,Préfab,Hall du K (eau),Chez Théo,Chez Théo,Chez Théo,TRUE,Préfab,Préfab,Préfab,Hall U.D,Hall U.D,Hall U.D,FALSE
+REDACTED,TRUE,TRUE,Préfab,Préfab,Préfab,Hall U.D,Hall U.D,Hall U.D,TRUE,Hall du K (eau),Préfab,Préfab,Campouce,Campouce,Campouce,FALSE
+REDACTED,TRUE,TRUE,Préfab,Préfab,Préfab,Campouce,Campouce,Campouce,TRUE,Préfab,Préfab,Préfab,Chez Théo,Chez Théo,Chez Théo,TRUE
+REDACTED,FALSE,TRUE,Campouce,Campouce,Campouce,Campouce,Hall du K (eau),Campouce,TRUE,Café,Café,Campouce,Campouce,Préfab,Campouce,FALSE
+REDACTED,TRUE,TRUE,Préfab,Préfab,Préfab,Chez Théo,Chez Théo,Chez Théo,FALSE,,,,,,,FALSE
+REDACTED,FALSE,TRUE,Préfab,Préfab,Préfab,Chez Théo,Préfab,Préfab,TRUE,Préfab,Foyer Culturel,Préfab,Préfab,Préfab,Préfab,FALSE
+REDACTED,TRUE,TRUE,Préfab,Préfab,Préfab,Préfab,Hall U.D,Préfab,FALSE,,,,,,,TRUE
+REDACTED,TRUE,FALSE,,,,,,,FALSE,,,,,,,TRUE
+REDACTED,FALSE,TRUE,Préfab,Préfab,Préfab,Préfab,Préfab,Préfab,TRUE,,Préfab,Préfab,Préfab,Préfab,Préfab,FALSE
+REDACTED,FALSE,FALSE,,,,,,,FALSE,,,,,,,TRUE
+REDACTED,FALSE,FALSE,,,,,,,FALSE,,,,,,,TRUE
+REDACTED,FALSE,TRUE,Hall U.D,Hall U.D,Hall U.D,Préfab,Préfab,Préfab,TRUE,Chez Théo,Chez Théo,Chez Théo,Préfab,Préfab,Préfab,FALSE
+REDACTED,TRUE,FALSE,,,,,,,TRUE,Hall U.D,Préfab,Préfab,Campouce,Campouce,Campouce,FALSE
+REDACTED,FALSE,TRUE,Campouce,Campouce,Campouce,Préfab,Préfab,Préfab,TRUE,Préfab,Hall U.D,Préfab,Campouce,Campouce,Campouce,FALSE
+REDACTED,TRUE,TRUE,Préfab,Préfab,Préfab,Chez Théo,Chez Théo,Chez Théo,TRUE,Préfab,Préfab,Préfab,Hall du K (eau),Campouce,Campouce,FALSE
+REDACTED,TRUE,TRUE,Campouce,Campouce,Campouce,Campouce,Campouce,Campouce,TRUE,Campouce,Campouce,Campouce,Campouce,Campouce,Campouce,TRUE
+REDACTED,TRUE,FALSE,,,,,,,FALSE,,,,,,,FALSE
+REDACTED,TRUE,FALSE,,,,,,,FALSE,,,,,,,TRUE
+REDACTED,TRUE,TRUE,Hall U.D,Hall U.D,Hall U.D,Préfab,Préfab,Préfab,TRUE,Campouce,Campouce,Campouce,Préfab,Hall du K (eau),Préfab,FALSE
+REDACTED,TRUE,TRUE,Hall U.D,Hall U.D,Hall U.D,Hall U.D,Foyer Culturel,Hall U.D,TRUE,Hall U.D,Hall U.D,Hall U.D,Hall U.D,Hall U.D,Hall U.D,TRUE
+REDACTED,FALSE,FALSE,,,,,,,FALSE,,,,,,,TRUE
+REDACTED,TRUE,TRUE,Préfab,Préfab,Préfab,Préfab,Préfab,Préfab,TRUE,Préfab,Préfab,Préfab,Préfab,Préfab,Préfab,FALSE
+REDACTED,TRUE,TRUE,Chez Théo,Chez Théo,Chez Théo,Préfab,Préfab,Préfab,FALSE,,,,,,,FALSE
+REDACTED,FALSE,FALSE,,,,,,,FALSE,,,,,,,TRUE
+REDACTED,FALSE,TRUE,Préfab,Préfab,Préfab,Préfab,Préfab,Préfab,FALSE,,,,,,,FALSE
+REDACTED,TRUE,TRUE,Préfab,Préfab,Préfab,Campouce,Campouce,Campouce,TRUE,Préfab,Préfab,Hall U.D,Chez Théo,Chez Théo,Chez Théo,FALSE
+REDACTED,FALSE,TRUE,Foyer Culturel,Foyer Culturel,Foyer Culturel,Foyer Culturel,Foyer Culturel,Hall U.D,TRUE,Foyer Culturel,Foyer Culturel,Foyer Culturel,Foyer Culturel,Foyer Culturel,Foyer Culturel,FALSE
+REDACTED,FALSE,TRUE,Foyer Culturel,Foyer Culturel,Foyer Culturel,Foyer Culturel,Foyer Culturel,Foyer Culturel,TRUE,Foyer Culturel,Foyer Culturel,Foyer Culturel,Foyer Culturel,Foyer Culturel,Foyer Culturel,FALSE
+REDACTED,TRUE,TRUE,Préfab,Campouce,Préfab,Préfab,Préfab,Préfab,TRUE,Campouce,Hall du K (eau),Préfab,Préfab,Préfab,Préfab,FALSE
+REDACTED,TRUE,FALSE,,,,,,,FALSE,,,,,,,TRUE

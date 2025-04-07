@@ -1,0 +1,79 @@
+[
+  {
+    "id": 6,
+    "name": "Salt Chips",
+    "ingredients": "",
+    "image": "https://kagvlnuflsooisreyboz.supabase.co/storage/v1/object/public/food-images//salt-chips.png",
+    "price": 1
+  },
+  {
+    "id": 7,
+    "name": "Paprika Chips",
+    "ingredients": "",
+    "image": "https://kagvlnuflsooisreyboz.supabase.co/storage/v1/object/public/food-images//paprika-chips.png",
+    "price": 1
+  },
+  {
+    "id": 8,
+    "name": "Mars",
+    "ingredients": "",
+    "image": "https://kagvlnuflsooisreyboz.supabase.co/storage/v1/object/public/food-images//mars.png",
+    "price": 1
+  },
+  {
+    "id": 9,
+    "name": "Twix",
+    "ingredients": "",
+    "image": "https://kagvlnuflsooisreyboz.supabase.co/storage/v1/object/public/food-images//twix.png",
+    "price": 1
+  },
+  {
+    "id": 10,
+    "name": "Snickers",
+    "ingredients": "",
+    "image": "https://kagvlnuflsooisreyboz.supabase.co/storage/v1/object/public/food-images//snickers.png",
+    "price": 1
+  },
+  {
+    "id": 11,
+    "name": "Waffles",
+    "ingredients": "",
+    "image": "https://kagvlnuflsooisreyboz.supabase.co/storage/v1/object/public/food-images//waffles.png",
+    "price": 1
+  },
+  {
+    "id": 1,
+    "name": "Sandwich Club",
+    "ingredients": "Bread, Ham, Cheese, Salad, Tomatoes, Eggs, Carrots, Mayo",
+    "image": "https://kagvlnuflsooisreyboz.supabase.co/storage/v1/object/public/food-images//sandwich-club.png",
+    "price": 4.5
+  },
+  {
+    "id": 2,
+    "name": "Sandwich Chicken Curry",
+    "ingredients": "Bread, Chicken, Curry, Salad, Tomatoes, Carrots",
+    "image": "https://kagvlnuflsooisreyboz.supabase.co/storage/v1/object/public/food-images//sandwich-curry.png",
+    "price": 4.5
+  },
+  {
+    "id": 3,
+    "name": "Sandwich Tuna Mayo",
+    "ingredients": "Bread, Tuna, Mayo, Salad, Tomatoes, Carrots",
+    "image": "https://kagvlnuflsooisreyboz.supabase.co/storage/v1/object/public/food-images//sandwich-tuna.png",
+    "price": 4.5
+  },
+  {
+    "id": 4,
+    "name": "Sandwich Vegetarian",
+    "ingredients": "Bread, Cream Cheese, Grilled Veggies, Salad, Tomatoes, Carrots",
+    "image": "https://kagvlnuflsooisreyboz.supabase.co/storage/v1/object/public/food-images//sandwich-vege.png",
+    "price": 4.5
+  },
+  {
+    "id": 5,
+    "name": "Sandwich Vegan",
+    "ingredients": "Bread, Grilled Veggies, Salad, Tomatoes, Carrots, Olive Oil",
+    "image": "https://kagvlnuflsooisreyboz.supabase.co/storage/v1/object/public/food-images//sandwich-vegan.png",
+    "price": 4.5
+  }
+]

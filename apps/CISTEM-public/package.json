@@ -1,0 +1,75 @@
+{
+  "name": "cistem-public",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://cistem.cercle-informatique.be",
+  "dependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "@fontsource/roboto": "^5.1.1",
+    "@fortawesome/react-fontawesome": "^0.2.2",
+    "bootstrap": "^5.3.3",
+    "fs": "^0.0.1-security",
+    "gh-pages": "^6.3.0",
+    "headroom.js": "^0.12.0",
+    "html-react-parser": "^5.2.2",
+    "moment": "^2.30.1",
+    "papaparse": "^5.5.1",
+    "path": "^0.12.7",
+    "path-browserify": "^1.0.1",
+    "processmd": "^4.7.0",
+    "react": "^18.3.1",
+    "react-app-rewired": "^2.2.1",
+    "react-dom": "^18.3.1",
+    "react-headroom": "^3.2.1",
+    "react-helmet": "^6.1.0",
+    "react-markdown": "^9.0.3",
+    "react-responsive": "^10.0.0",
+    "react-router-dom": "^7.0.1",
+    "react-router-hash-link": "^2.4.3",
+    "react-scripts": "5.0.1",
+    "react-snap": "^1.23.0",
+    "reactstrap": "^9.2.3",
+    "styled-components": "^6.1.13",
+    "url": "^0.11.4",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "dev": "PORT=3000 react-scripts start --disable-open",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "build-css": "sass --watch src/assets/css:src/assets/css",
+    "compile": "processmd src/text/**/*.md --outputDir src/text/json --preview 110",
+    "predeploy": "npm run compile && npm run build",
+    "deploy": "npm run build && gh-pages -d build --repo https://github.com/Cerkinfo/CISTEM-public.git"
+  },
+  "reactSnap": {
+    "source": "build",
+    "fixWebpackChunksIssue": false,
+    "minifyHtml": {
+      "collapseWhitespace": false,
+      "removeComments": true
+    }
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.20"
+  }
+}
